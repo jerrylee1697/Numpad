@@ -1,5 +1,9 @@
 # Numpad Project
 
+## Render Version 1.1
+![Alt text](Photos/front1_1.jpg?raw=true "Title")
+![Alt text](Photos/rear1_1.jpg?raw=true "Title")
+
 ## Parts
 | Part  | Link |
 | --------------- | -------------- |
