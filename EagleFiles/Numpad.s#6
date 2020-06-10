@@ -14906,6 +14906,7 @@ Source: http://www.molex.com/product/ffc/52559.html</description>
 <sheet>
 <plain>
 <text x="-119.38" y="55.88" size="1.778" layer="91">Boot1</text>
+<text x="-71.12" y="259.08" size="1.778" layer="91">OLED Display</text>
 </plain>
 <instances>
 <instance part="U$2" gate="G$1" x="31.75" y="59.69" smashed="yes"/>

@@ -3720,6 +3720,77 @@ for trimmer refence see : &lt;u&gt;www.electrospec-inc.com/cross_references/trim
 </package3d>
 </packages3d>
 </library>
+<library name="con-molex" urn="urn:adsk.eagle:library:165">
+<description>&lt;b&gt;Molex Connectors&lt;/b&gt;&lt;p&gt;
+&lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
+<packages>
+<package name="52559-2492" library_version="2">
+<description>&lt;b&gt;Easy-On™ Type FFC/FPC Connector, Vertical, Surface Mount, ZIF, 24 Circuits, with Tape Packaging Center Placement Holes&lt;/b&gt;&lt;p&gt;&lt;a href =http://www.molex.com/pdm_docs/sd/525592433_sd.pdf&gt;Datasheet &lt;/a&gt;</description>
+<wire x1="-8.75" y1="-1" x2="-8.75" y2="1" width="0.2032" layer="21"/>
+<wire x1="-8.75" y1="1" x2="-6.25" y2="1.75" width="0.2032" layer="51"/>
+<wire x1="-6.25" y1="1.75" x2="6.25" y2="1.75" width="0.2032" layer="51"/>
+<wire x1="6.25" y1="1.75" x2="8.75" y2="1" width="0.2032" layer="51"/>
+<wire x1="8.75" y1="1" x2="8.75" y2="-1" width="0.2032" layer="21"/>
+<wire x1="7.45" y1="-1" x2="-7.45" y2="-1" width="0.2032" layer="51"/>
+<wire x1="-7.45" y1="-1" x2="-8.75" y2="-1" width="0.2032" layer="21"/>
+<wire x1="-6.2" y1="-1" x2="-6.2" y2="-0.25" width="0.2032" layer="21"/>
+<wire x1="-6.2" y1="-0.25" x2="6.2" y2="-0.25" width="0.2032" layer="21"/>
+<wire x1="6.2" y1="-0.25" x2="6.2" y2="-1" width="0.2032" layer="21"/>
+<wire x1="8.75" y1="-1" x2="7.45" y2="-1" width="0.2032" layer="21"/>
+<smd name="1" x="-5.75" y="-1.4" dx="0.6" dy="1.5" layer="1"/>
+<smd name="3" x="-4.75" y="-1.4" dx="0.6" dy="1.5" layer="1"/>
+<smd name="5" x="-3.75" y="-1.4" dx="0.6" dy="1.5" layer="1"/>
+<smd name="M1" x="-6.75" y="-1.4" dx="0.8" dy="1.5" layer="1"/>
+<smd name="M2" x="6.75" y="-1.4" dx="0.8" dy="1.5" layer="1"/>
+<smd name="6" x="-3.25" y="1.4" dx="0.6" dy="1.5" layer="1" rot="R180"/>
+<smd name="4" x="-4.25" y="1.4" dx="0.6" dy="1.5" layer="1" rot="R180"/>
+<smd name="2" x="-5.25" y="1.4" dx="0.6" dy="1.5" layer="1" rot="R180"/>
+<smd name="M3" x="6.75" y="1.4" dx="0.8" dy="1.5" layer="1" rot="R180"/>
+<smd name="M4" x="-6.75" y="1.4" dx="0.8" dy="1.5" layer="1" rot="R180"/>
+<smd name="7" x="-2.75" y="-1.4" dx="0.6" dy="1.5" layer="1"/>
+<smd name="8" x="-2.25" y="1.4" dx="0.6" dy="1.5" layer="1" rot="R180"/>
+<smd name="9" x="-1.75" y="-1.4" dx="0.6" dy="1.5" layer="1"/>
+<smd name="10" x="-1.25" y="1.4" dx="0.6" dy="1.5" layer="1" rot="R180"/>
+<smd name="11" x="-0.75" y="-1.4" dx="0.6" dy="1.5" layer="1"/>
+<smd name="12" x="-0.25" y="1.4" dx="0.6" dy="1.5" layer="1" rot="R180"/>
+<smd name="13" x="0.25" y="-1.4" dx="0.6" dy="1.5" layer="1"/>
+<smd name="14" x="0.75" y="1.4" dx="0.6" dy="1.5" layer="1" rot="R180"/>
+<smd name="15" x="1.25" y="-1.4" dx="0.6" dy="1.5" layer="1"/>
+<smd name="16" x="1.75" y="1.4" dx="0.6" dy="1.5" layer="1" rot="R180"/>
+<smd name="17" x="2.25" y="-1.4" dx="0.6" dy="1.5" layer="1"/>
+<smd name="18" x="2.75" y="1.4" dx="0.6" dy="1.5" layer="1" rot="R180"/>
+<smd name="19" x="3.25" y="-1.4" dx="0.6" dy="1.5" layer="1"/>
+<smd name="20" x="3.75" y="1.4" dx="0.6" dy="1.5" layer="1" rot="R180"/>
+<smd name="21" x="4.25" y="-1.4" dx="0.6" dy="1.5" layer="1"/>
+<smd name="22" x="4.75" y="1.4" dx="0.6" dy="1.5" layer="1" rot="R180"/>
+<smd name="23" x="5.25" y="-1.4" dx="0.6" dy="1.5" layer="1"/>
+<smd name="24" x="5.75" y="1.4" dx="0.6" dy="1.5" layer="1" rot="R180"/>
+<text x="-6.35" y="2.54" size="1.27" layer="25">&gt;NAME</text>
+<text x="-6.35" y="-3.81" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-7" y1="-1.55" x2="-6.5" y2="-1.1" layer="51"/>
+<rectangle x1="-5.9" y1="-1.55" x2="-5.6" y2="-1.1" layer="51"/>
+<rectangle x1="-4.9" y1="-1.55" x2="-4.6" y2="-1.1" layer="51"/>
+<rectangle x1="-3.9" y1="-1.55" x2="-3.6" y2="-1.1" layer="51"/>
+<rectangle x1="6.5" y1="-1.55" x2="7" y2="-1.1" layer="51"/>
+<rectangle x1="-2.9" y1="-1.55" x2="-2.6" y2="-1.1" layer="51"/>
+<rectangle x1="-1.9" y1="-1.55" x2="-1.6" y2="-1.1" layer="51"/>
+<rectangle x1="-0.9" y1="-1.55" x2="-0.6" y2="-1.1" layer="51"/>
+<rectangle x1="0.1" y1="-1.55" x2="0.4" y2="-1.1" layer="51"/>
+<rectangle x1="1.1" y1="-1.55" x2="1.4" y2="-1.1" layer="51"/>
+<rectangle x1="2.1" y1="-1.55" x2="2.4" y2="-1.1" layer="51"/>
+<rectangle x1="3.1" y1="-1.55" x2="3.4" y2="-1.1" layer="51"/>
+<rectangle x1="4.1" y1="-1.55" x2="4.4" y2="-1.1" layer="51"/>
+<rectangle x1="5.1" y1="-1.55" x2="5.4" y2="-1.1" layer="51"/>
+<polygon width="0.1016" layer="21">
+<vertex x="-7.6" y="-0.95"/>
+<vertex x="-7.6" y="-0.85"/>
+<vertex x="-7.8" y="-0.55"/>
+<vertex x="-8" y="-0.85"/>
+<vertex x="-8" y="-0.95"/>
+</polygon>
+</package>
+</packages>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -4089,6 +4160,14 @@ Please make sure your boards conform to these design rules.</description>
 <element name="R_BOOT1" library="resistor" library_urn="urn:adsk.eagle:library:348" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="47K" x="16.51" y="10.16" smashed="yes">
 <attribute name="NAME" x="15.875" y="10.795" size="1.27" layer="25"/>
 <attribute name="VALUE" x="15.875" y="8.255" size="1.27" layer="27"/>
+</element>
+<element name="X1" library="con-molex" library_urn="urn:adsk.eagle:library:165" package="52559-2492" value="52559-2492" x="10.16" y="-26.67" smashed="yes">
+<attribute name="MF" value="MOLEX" x="10.16" y="-26.67" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="52559-2492" x="10.16" y="-26.67" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="3.81" y="-24.13" size="1.27" layer="25"/>
+<attribute name="OC_FARNELL" value="unknown" x="10.16" y="-26.67" size="1.778" layer="27" display="off"/>
+<attribute name="OC_NEWARK" value="25M4409" x="10.16" y="-26.67" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="3.81" y="-30.48" size="1.27" layer="27"/>
 </element>
 </elements>
 <signals>

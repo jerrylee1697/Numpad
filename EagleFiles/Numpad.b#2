@@ -5180,6 +5180,36 @@ Please make sure your boards conform to these design rules.</description>
 </signal>
 <signal name="N$90">
 <contactref element="D49" pad="C"/>
+<contactref element="D45" pad="C"/>
+<contactref element="D41" pad="C"/>
+<contactref element="D37" pad="C"/>
+<contactref element="D33" pad="C"/>
+<contactref element="D53" pad="C"/>
+<wire x1="25.4" y1="-196.85" x2="25.4" y2="-240.03" width="0" layer="19" extent="1-1"/>
+<wire x1="25.4" y1="-153.67" x2="25.4" y2="-196.85" width="0" layer="19" extent="1-1"/>
+<wire x1="25.4" y1="-283.21" x2="25.4" y2="-240.03" width="0" layer="19" extent="1-1"/>
+<wire x1="25.4" y1="-326.39" x2="25.4" y2="-283.21" width="0" layer="19" extent="1-1"/>
+<wire x1="2.54" y1="-93.98" x2="25.4" y2="-153.67" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$91">
+<contactref element="D54" pad="C"/>
+<contactref element="D34" pad="C"/>
+<contactref element="D38" pad="C"/>
+<contactref element="D46" pad="C"/>
+<wire x1="2.54" y1="-158.75" x2="2.54" y2="-245.11" width="0" layer="19" extent="1-1"/>
+<wire x1="2.54" y1="-115.57" x2="2.54" y2="-158.75" width="0" layer="19" extent="1-1"/>
+<wire x1="2.54" y1="-331.47" x2="2.54" y2="-245.11" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$92">
+<contactref element="D42" pad="C"/>
+<contactref element="D56" pad="C"/>
+<contactref element="D55" pad="C"/>
+<contactref element="D52" pad="C"/>
+<contactref element="D50" pad="C"/>
+<wire x1="2.54" y1="-417.83" x2="2.54" y2="-439.42" width="0" layer="19" extent="1-1"/>
+<wire x1="2.54" y1="-396.24" x2="2.54" y2="-417.83" width="0" layer="19" extent="1-1"/>
+<wire x1="2.54" y1="-374.65" x2="2.54" y2="-396.24" width="0" layer="19" extent="1-1"/>
+<wire x1="2.54" y1="-353.06" x2="2.54" y2="-374.65" width="0" layer="19" extent="1-1"/>
 </signal>
 </signals>
 <mfgpreviewcolors>
